@@ -1,6 +1,14 @@
+<div class="hello">Extend</div>
 <div align="center">
     <h1>Hideko</h1>
 </div>
+
+<style>
+    .hello {
+        background: red;1
+    }
+</style>
+
 Portfolio: https://hideko-dev.com<br>
 Links: https://links.hideko-dev.com
 
