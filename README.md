@@ -2,7 +2,8 @@
     <h1>Hideko</h1>
 </div>
 
-Portfolio: https://hideko-dev.com<br>
+`Portfolio:` **https://hideko-dev.com**
+<br>
 Links: https://links.hideko-dev.com
 
 ----
