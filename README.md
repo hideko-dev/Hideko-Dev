@@ -1,6 +1,4 @@
-<div align="center">
-    <h1>Hideko</h1>
-</div>
+<h1>Hideko</h1>
 
 `Portfolio` **https://hideko-dev.com**
 <br>
