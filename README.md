@@ -1,4 +1,4 @@
-# YG Entertainment
+# Hideko
 
 `Portfolio` **https://hideko-dev.com**
 
