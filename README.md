@@ -1,8 +1,6 @@
-<h1>Hideko</h1>
+# YG Entertainment
 
 `Portfolio` **https://hideko-dev.com**
-<br>
-`Links` **https://links.hideko-dev.com**
 
 ----
 ![Hideko's Github Stats](https://github-readme-stats.vercel.app/api?username=hideko-dev&show_icons=true&bg_color=00000000&border_color=313131)
