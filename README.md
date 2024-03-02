@@ -1,6 +1,7 @@
 # Hideko
 
 ` Portfolio ` https://hideko-dev.com
+
 ` Working at ` @TeamNekozouneko
 
 ----
