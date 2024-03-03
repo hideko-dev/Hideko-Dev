@@ -1,8 +1,10 @@
 # Hideko
 
-` Portfolio ` https://hideko-dev.com
-
-` Working at ` @TeamNekozouneko
+` Portfolio ` https://hideko-dev.com<br/>
+` Working at ` 
+@TeamNekozouneko
+@BlackLabs
+@LaunchPad
 
 ----
 
