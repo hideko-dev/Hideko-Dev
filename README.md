@@ -3,9 +3,9 @@
 **` Portfolio `** https://hideko-dev.com<br/>
 **` Working at `** <br/> 
 ```
-@TeamNekozouneko
+@TeamNekozounekoDev
 @BlackLabs
-@LaunchPad
+@FlyingDevelopment
 ```
 
 ----
